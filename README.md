@@ -1,5 +1,4 @@
 # AWS-CI-CD
-Here's a modified version of the steps for your README file on GitHub:
 
 ### Setting Up AWS Infrastructure for Ticket Management System
 
